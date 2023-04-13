@@ -1,6 +1,6 @@
 {
   "name": "next_bucket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "next_bucket is a extended version of localstorage which support the javascript objects, specially designed for NextJS",
   "main": "/main/storage.js",
   "scripts": {
