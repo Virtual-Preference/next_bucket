@@ -1,0 +1,23 @@
+{
+  "name": "next_bucket",
+  "version": "1.0.0",
+  "description": "next_bucket is a extended version of localstorage which support the javascript objects, specially designed for NextJS",
+  "main": "/main/storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localstorage",
+    "next_bucket",
+    "localstorage alternative"
+  ],
+  "author": "Vijay Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirtualPreference/next_bucket/issues"
+  },
+  "dependencies": {
+    "next": "^13.3.0"
+  },
+  "homepage": "https://github.com/VirtualPreference/next_bucket/#readme"
+}
